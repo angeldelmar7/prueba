@@ -1,0 +1,4 @@
+services:
+#    angel_user.example:
+#        class: ANGEL\UserBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
